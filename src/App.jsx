@@ -15,7 +15,7 @@ function App() {
           View GitHub Profile </a><br/><br/>
           <a href="www.linkedin.com/in/inam-ahmed-039696340" className="btn btn-primary btn-sm" target="_blank"
            rel="noopener">
-          View LinkedIn Profile: </a><hr style={{border:"15px solid black"}}></hr>
+          View LinkedIn Profile </a><hr style={{border:"15px solid black"}}></hr>
       </section>
       <section id="about" style={{backgroundColor:"lightgray"}}>
         <h1>About Me</h1>
@@ -56,7 +56,9 @@ o	GitHub: https://github.com/inam432/To_Doer
       </section>
 
       <section id="resume" style={{backgroundColor:"lightgray"}}>
-        <h1>Resume</h1><hr style={{border:"20px solid black"}}></hr>
+        <h1>Resume</h1>
+        <a href="Inam Ahmed_Resume.pdf" className="btn btn-primary btn-sm" download>
+          Download Resume </a><hr style={{border:"20px solid black"}}></hr>
       </section>
        <section id="contact" style={{backgroundColor:"lightgray"}}>
         <h1>Contact</h1>
