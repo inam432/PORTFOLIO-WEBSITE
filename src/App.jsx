@@ -19,19 +19,21 @@ function App() {
       </section>
       <section id="about" style={{backgroundColor:"lightgray"}}>
         <h1>About Me</h1>
-        <p>I am a hardworking 2nd year computer science student interested in working as a front end developer.
+        <p>I am a hardworking computer science student interested in working as a front end developer.
            Skilled in responsive frontend Development, version control system (git) and online git repository 
            hosting service (gitHub). Currently looking to work for a company where I can apply my coding skills
             to gain experience as well as contribute positively for the growth of company.   </p>
             <hr style={{border:"20px solid black"}}></hr></section>
 
       <section id="skills" style={{backgroundColor:"lightgray"}}>
-        <h1>Skills</h1>
+        <h1>Technical Skills</h1>
         <div className='mx-5 text-start'>•	HTML, CSS, Bootstrap, JavaScript, 
         React.js (Responsive Frontend Development)</div>
-        <br/><div className='mx-5 text-start'>•	Git, GitHub</div><br/>
-        <div className='mx-5 text-start'>•	Node.js, Express.js (Backend Development)</div><br/>
-        <div className='mx-5 text-start'>•	MongoDB (NoSQL Database)</div>
+        <br/><div className='mx-5 text-start'>•	Node.js, Express.js (Backend Development)</div><br/>
+        <div className='mx-5 text-start'>•	MongoDB (NoSQL Database), MySQL (SQL Database)</div><br/>
+        <div className='mx-5 text-start'>•	Basic Knowledge of Object Oriented Programming</div><br/>
+        <div className='mx-5 text-start'>•	Git, GitHub</div><br/>
+        <div className='mx-5 text-start'>•	Basic knowledge of Figma (UI/UX Design Tool)</div>
         <hr style={{border:"20px solid black"}}></hr>
       </section>
 
@@ -49,8 +51,8 @@ o	GitHub: https://github.com/inam432/To_Doer
   <div className="card-body">
     <h5 className="card-title">•	To Do List Website</h5>
     <p className="card-text">o	Description: Responsive website built to manage tasks efficiently. <br/>
-    o	Technologies: HTML,CSS, JavaScript, Bootstrap, React.js<br/>
-o	GitHub: https://github.com/inam432/To_Doer
+    o	Technologies: HTML,CSS, JavaScript, Bootstrap, React.js, Node.js, Express.js, MongoDB<br/>
+o	GitHub: https://github.com/inam432/To-Doer
 </p></div></div>
 <hr style={{border:"20px solid black"}}></hr>
       </section>
