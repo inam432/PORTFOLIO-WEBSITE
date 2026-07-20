@@ -19,10 +19,11 @@ function App() {
       </section>
       <section id="about" style={{backgroundColor:"lightgray"}}>
         <h1>About Me</h1>
-        <p>I am a hardworking computer science student interested in working as a front end developer.
-           Skilled in responsive frontend Development, version control system (git) and online git repository 
-           hosting service (gitHub). Currently looking to work for a company where I can apply my coding skills
-            to gain experience as well as contribute positively for the growth of company.   </p>
+        <p>I am a hardworking computer science student interested in working as a web developer. 
+          Skilled in responsive frontend Development, backend development, version control system (Git) and
+           online git repository hosting service (GitHub). Currently looking to work for a company where I 
+           can apply my coding skills to gain experience as well as contribute positively for the growth of 
+           company.</p>
             <hr style={{border:"20px solid black"}}></hr></section>
 
       <section id="skills" style={{backgroundColor:"lightgray"}}>
